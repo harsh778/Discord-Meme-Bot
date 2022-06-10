@@ -5,9 +5,8 @@ A discord meme bot for memes related to UIUC as part of Summer of Side Projects 
 # Usage
 On the server, type the following -
 
-``` 
+```
 plsmeme
-
 ```
 # Libraries Used-
 * discord.py
