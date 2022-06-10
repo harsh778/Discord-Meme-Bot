@@ -2,9 +2,17 @@
 
 A discord meme bot for memes related to UIUC as part of Summer of Side Projects 2022. 
 
+# Usage
+On the server, type the following -
+
+``` 
+plsmeme
+
+```
 # Libraries Used-
-discord.py
-flask
+* discord.py
+* flask.py
+* thread.py
 
 
 This bot is hosted 24/7 on https://uptimerobot.com
