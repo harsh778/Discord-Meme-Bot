@@ -10,8 +10,7 @@ A discord meme bot for memes related to UIUC as part of Summer of Side Projects 
 # Testing
 
 You can join this discord server for easy testing of the bot - <br>
-https://discord.gg/KhXvpsZ4
-
+https://discord.gg/3fFaU5aJ
 # Usage
 On the server, type the following -
 
